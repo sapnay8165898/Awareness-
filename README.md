@@ -1,38 +1,143 @@
-# Awareness-
-Environmental awareness 
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Breaking News: New Initiative to Reduce Plastic Waste</title>
+  
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #e6f7ff;
+      color: #333;
+    }
+
+    /* Header Section */
+    header {
+      background-color: #0099cc;
+      color: white;
+      text-align: center;
+      padding: 40px;
+      border-bottom: 3px solid #005580;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 48px;
+    }
+
+    header p {
+      font-size: 18px;
+      margin: 10px 0 0;
+    }
+
+    /* Main Content Section */
+    .main-content {
+      width: 80%;
+      max-width: 1000px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #ffffff;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .main-content h2 {
+      font-size: 32px;
+      color: #0099cc;
+    }
+
+    .main-content p {
+      font-size: 18px;
+      line-height: 1.8;
+      color: #555;
+      margin-bottom: 20px;
+    }
+
+    /* Awareness List Section */
+    .awareness-list {
+      background-color: #f9f9f9;
+      padding: 30px;
+      margin-top: 40px;
+      border-radius: 8px;
+    }
+
+    .awareness-list h3 {
+      font-size: 28px;
+      color: #005580;
+    }
+
+    .awareness-list ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .awareness-list li {
+      font-size: 18px;
+      margin-bottom: 12px;
+      color: #333;
+    }
+
+    .awareness-list li::before {
+      content: "✔";
+      color: #0099cc;
+      margin-right: 10px;
+    }
+
+    /* Footer Section */
+    footer {
+      text-align: center;
+      background-color: #005580;
+      color: white;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
 </head>
 <body>
+  <header>
+    <h1><u>Environmental Awareness<u></h1>
+    <p>Small Actions, Big Impact</p>
+  </header>
 
-  <header>
-    <h1>Breaking News</h1>
-    <p>New Initiative to Reduce Plastic Waste</p>
-  </header>
+  <div class="main-content">
+    <h2><u>Understanding the Environment<u></h2>
 
-  <div class="article-container">
-    <h2>Government Announces New Initiative to Reduce Plastic Waste</h2>
-    <p class="article-date">Date: February 6, 2025</p>
-    <img src="https://picsum.photos/800/400" alt="News Image">
+   <img src="https://www.istockphoto.com/photo/businessman-holding-green-scrap-paper-ball-with-world-map-and-environment-icon-such-gm1954840203-557447201" width="200" hight="300">
 
-    <p>The government has launched a new initiative aimed at reducing plastic waste across the country. The initiative focuses on cutting down on single-use plastics and promoting biodegradable alternatives. The move comes in response to growing concerns about the environmental impact of plastic pollution, which has been a major issue for decades.</p>
+    <p>Environmental awareness is understanding the importance of protecting nature and reducing harmful practices. Why should we care? Pollution, climate change, and deforestation threaten our planet's future.</p>
 
-    <p>According to government officials, the initiative will include awareness campaigns to educate the public about the harmful effects of plastic and encourage businesses to adopt eco-friendly practices. Additionally, the government will be increasing recycling facilities to make it easier for people to dispose of their plastic waste responsibly.</p>
+    <p>Raising awareness allows individuals to take responsibility for their actions and understand how they can contribute to saving the environment. From reducing waste to planting trees, every action counts.</p>
 
-    <p>Environmental groups have welcomed the new initiative, noting that it is a step in the right direction. However, many are calling for stricter regulations on plastic manufacturers and larger investment in alternative technologies. "The government’s efforts are commendable, but we need stronger action to protect the environment for future generations," said one prominent environmental activist.</p>
+    <h2>Why Protect the Environment?</h2>
+    <p>Protecting the environment is essential for maintaining the health of the planet and ensuring a sustainable future for future generations. Neglecting the environment can result in serious consequences such as health issues, loss of biodiversity, and environmental disasters.</p>
 
-    <p>The new initiative also calls for collaboration between the private sector, local governments, and non-profit organizations to tackle the growing plastic waste problem. Officials hope that with widespread participation, the country can significantly reduce its plastic footprint in the coming years.</p>
+    <h2>Major Threats to Our Environment</h2>
+    <p><strong>Pollution:</strong> Air, water, and land pollution harm both humans and wildlife. For example, over 8 million tons of plastic enter the ocean every year.</p>
 
-    <p>For more information on the initiative and how you can contribute, visit the official government website.</p>
-  </div>
+    <p><strong>Climate Change:</strong> Rising global temperatures affect weather patterns, causing extreme events such as floods, droughts, and storms.</p>
 
-  <footer>
-    <p>&copy; 2025 News Source. All rights reserved.</p>
-  </footer>
+    <p><strong>Deforestation:</strong> Forests play a key role in absorbing carbon dioxide. Deforestation accelerates climate change and disrupts ecosystems.</p>
 
+    <div class="awareness-list">
+      <h3>What You Can Do to Help</h3>
+      <ul>
+        <li>Reduce waste by recycling and purchasing products with minimal packaging.</li>
+        <li>Use eco-friendly alternatives like solar energy and electric vehicles.</li>
+        <li>Plant trees and support reforestation efforts.</li>
+        <li>Conserve water by using it efficiently and reducing wastage.</li>
+        <li>Educate your friends and family about the importance of protecting the environment.</li>
+        <li>Participate in local clean-up activities and environmental campaigns.</li>
+      </ul>
+    </div>
+
+    <h2>Spreading Awareness</h2>
+    <p>Raising awareness about environmental issues can be done through education, social media, and community involvement. Everyone can play a role in making the world more sustainable.</p>
+
+    <h2>Your Role</h2>
+    <p>As an individual, you can make small changes in your daily routine that will reduce your environmental impact. Whether it's using less plastic or conserving water, every action contributes to the bigger picture.</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Environmental Awareness Initiative. All rights reserved.</p>
+  </footer>
 </body>
 </html>
